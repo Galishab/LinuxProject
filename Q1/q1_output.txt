@@ -1,0 +1,63 @@
+Time: Tue Mar  4 18:17:08 IST 2025
+USER DETAILS: egor012:x:1000:1000:,,,:/home/egor012:/bin/bash
+REPO: /home/egor012/Linux_Course_Work
+BRANCH: question_1
+VERSIONID: 20.04
+---------------------------------------------
+FILES AND FOLDERS (Recursive List):
+./Q1/q1_output.txt
+./.myid
+./.git/HEAD
+./.git/config
+./.git/index
+./.git/logs/HEAD
+./.git/logs/refs/heads/question_1
+./.git/logs/refs/heads/master
+./.git/hooks/commit-msg.sample
+./.git/hooks/post-update.sample
+./.git/hooks/pre-push.sample
+./.git/hooks/fsmonitor-watchman.sample
+./.git/hooks/update.sample
+./.git/hooks/pre-applypatch.sample
+./.git/hooks/applypatch-msg.sample
+./.git/hooks/pre-rebase.sample
+./.git/hooks/prepare-commit-msg.sample
+./.git/hooks/pre-commit.sample
+./.git/hooks/pre-receive.sample
+./.git/hooks/pre-merge-commit.sample
+./.git/refs/heads/question_1
+./.git/refs/heads/master
+./.git/info/exclude
+./.git/COMMIT_EDITMSG
+./.git/objects/6d/882580db110fbd7a19b209ddc5a4344a207770
+./.git/objects/d8/b80f61ae9415feef98d6bad1c69bc6f4602fe1
+./.git/objects/5a/0be14054edc8b0d574ae960f2dd5cbe3a41b08
+./.git/objects/60/2afab65ff630beb99febf3e03f14d2e9b0bebb
+./.git/objects/81/ab8b99487b22cc975fdad0be32c192366895bd
+./.git/objects/4b/05cc570e6ea1d000486690903a625ec2173f70
+./.git/objects/3c/df9c737fc1df9e5a4758aa366c161478fb9ba6
+./.git/objects/7b/ebff83e6855f96fa7ff9f7c14d4de4b985af71
+./.git/objects/be/275cd3963b2011c4b2f35d36a5a015225a020c
+./.git/objects/2a/6548b8f7b5f735aa4d3b5d06fbf5e0ea08b09a
+./.git/objects/b5/8a9bc8fd71d6aede731e33a0fbca54f8c8f3ec
+./.git/objects/33/7d41392b5b00970acb84577783563ef5796ba5
+./.git/objects/eb/595a29737d98d31f53645a25d4b411278eaba8
+./.git/objects/02/394c1961908f4494d5be9e7927207befe90213
+./.git/objects/d9/7b34f1353806ad00c250a800a1307c22b56a3a
+./.git/description
+./CODE/plant.py
+./CODE/py1.py
+./DATA/plants.csv
+./DATA/FIle_1.txt
+./DATA/img1.jpg
+./DATA/File_2.txt
+./DATA/img2.jpg
+./DATA/img3.jpg
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/plants.csv
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/FIle_1.txt
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/img1.jpg
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/plant.py
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/File_2.txt
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/img2.jpg
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/img3.jpg
+./DOWNLOADS/LINUX_COURSE_WORK-downloads/py1.py
