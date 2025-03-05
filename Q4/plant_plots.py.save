@@ -1,0 +1,10 @@
+import argparse
+import matplotlib.pyplot as plt
+def main():
+	parser = argparse.ArgumentParser(description="Generate plant plots from command line arguments.")
+    parser.add_argument("--plant", type=str, default="Rose", help="Name of the plant")
+    parser.add_argument("--height", nargs='+', type=float, help="Height data (cm)")
+    parser.add_argument("--leaf_count", nargs='+', type=int, help="Leaf count data")
+    parser.add_argument("--dry_weight", nargs='+', type=float, help="Dry weight data (g)")
+    
+    args = parser.parse_args()
