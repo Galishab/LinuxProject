@@ -94,7 +94,7 @@ update_weight() {
 commit_and_push() {
     git add "$CSV_FILE" "$LAST_OUTPUT"
     git commit -m "Updated CSV data"
-    git push origin main  
+    git push origin master  
     echo "Changes committed and pushed to GitHub."
 }
 
